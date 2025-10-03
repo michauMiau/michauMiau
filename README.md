@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Michał from Poland
 - Interested in networking and 3D Printing
+- Barely knows how to code
 - (sorry for bad english)
