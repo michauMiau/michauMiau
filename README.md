@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Michał from Poland
-- Interested in networking and 3D Printing
-- Barely knows how to code
-- (sorry for bad english)
+- I'm interested in Networking, Smart Homes, Microcontrollers and 3D Printing
+- Learning coding
+- Excuse any bad English, I am not a native speaker (natywny głośnik) 
