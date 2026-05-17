@@ -5,7 +5,7 @@ or an item for **Counter Strike** [**here**](https://steamcommunity.com/tradeoff
 I'm not picky about what i get, but if you're unsure what to gift
 
   - [x] [HL3](about:blank)
-  - [ ] [POSTAL 2: Paradise Lost](https://store.steampowered.com/app/360960/POSTAL_2_Paradise_Lost/) 
+  - [ ] [POSTAL 2: Paradise Lost](https://store.steampowered.com/app/360960/POSTAL_2_Paradise_Lost/) *(cheapest)*
   - [ ] [Steam Frame](https://store.steampowered.com/sale/steamframe)
   - [ ] [Metro Awakening](https://store.steampowered.com/app/2669410/Metro_Awakening/)
 
