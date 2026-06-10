@@ -8,7 +8,7 @@ _________________________________________________________________
 
 Nie mam żadnego sposobu aby można było mi dać pieniądze bezpośrednio, ale możesz mi dać grę na [**Steamie**](https://steamcommunity.com/id/testpointrxz) lub item w  [**Counter Strike**](https://steamcommunity.com/tradeoffer/new/?partner=ł1028423889&token=BP3cS9d3)
 _________________________________________________________________
-- [x] [HL3](about:blank)
-  - [ ] [POSTAL 2: Paradise Lost](https://store.steampowered.com/app/360960/POSTAL_2_Paradise_Lost/) *(cheapest/najtańsze)*
+  - [x] [HL3](about:blank)
+  - [x] [POSTAL 2: Paradise Lost](https://store.steampowered.com/app/360960/POSTAL_2_Paradise_Lost/)
   - [ ] [Steam Frame](https://store.steampowered.com/sale/steamframe)
   - [ ] [Metro Awakening](https://store.steampowered.com/app/2669410/Metro_Awakening/)
